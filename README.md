@@ -1,4 +1,4 @@
-# Code Implementation of IEEE ICDM 2023 accepted paper:
+# Code Implementation of IEEE ICDM 2023 accepted paper
 
 > Refining the Unseen: Self-supervised Two-stream Feature Extraction for Blind Image Quality Assessment
 
