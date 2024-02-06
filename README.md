@@ -1,6 +1,6 @@
-# Code Implementation of IEEE ICDM 2023 accepted paper
+# Code Implementation of TSFE
 
-> Refining the Unseen: Self-supervised Two-stream Feature Extraction for Blind Image Quality Assessment
+> Refining the Unseen: Self-supervised Two-stream Feature Extraction for Image Quality Assessment
 
 
 ## Requirements:
@@ -57,3 +57,16 @@ nohup python structure.py
 ### Regression and Evaluation
 
 Use `regression.py` to apply ridge regressor and evaluate the performance.
+
+## Citation
+
+```
+@INPROCEEDINGS{10415683,
+  author={Lou, Yiwei and Chen, Yanyuan and Xu, Dexuan and Zhou, Doudou and Cao, Yongzhi and Wang, Hanpin and Huang, Yu},
+  booktitle={2023 IEEE International Conference on Data Mining (ICDM)}, 
+  title={Refining the Unseen: Self-supervised Two-stream Feature Extraction for Image Quality Assessment}, 
+  year={2023},
+  pages={1193-1198},
+  doi={10.1109/ICDM58522.2023.00147}
+}
+```
